@@ -1,3 +1,5 @@
 this is a new file.
 this is a modified file.
 made a merge conflict with modifiedFile.
+making the conflict with the updatedFile branch.
+now fix got occur.
